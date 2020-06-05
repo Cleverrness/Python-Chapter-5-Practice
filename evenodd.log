@@ -1,0 +1,11 @@
+----------Welcome to the Even/Odd Program!----------
+
+Please input a number: The number 24 that you entered is EVEN!
+Please input another number besides 0: The number 23 that you entered is ODD!
+Please input another number besides 0: The number 11 that you entered is ODD!
+Please input another number besides 0: The number -1 that you entered is ODD!
+Please input another number besides 0: The number -2 that you entered is EVEN!
+Please input another number besides 0: The number 50 that you entered is EVEN!
+Please input another number besides 0: The number 2345235243626 that you entered is EVEN!
+Please input another number besides 0: The number 0 that you entered is EVEN!
+You have entered 0, exiting program. Goodbye!
