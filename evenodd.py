@@ -23,7 +23,9 @@ while num != 0:
     num_text = input("Please input another number besides 0: ")
     num = int(num_text)
     remainder = num % 2
-   
+    
+    if num == 0:
+        break
     if remainder == 0:
         print(f"The number {num} that you entered is EVEN!")
     else:
